@@ -17,7 +17,7 @@ Working on
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/HippoBaguette/e/blob/master/generated/overview.svg)
-![](https://github.com/HippoBaguette/e/blob/master/generated/languages.svg)
+![](https://github.com/HippoBaguette/HippoBaguette/blob/master/generated/overview.svg)
+![](https://github.com/HippoBaguette/HippoBaguette/blob/master/generated/languages.svg)
 
 </a>
