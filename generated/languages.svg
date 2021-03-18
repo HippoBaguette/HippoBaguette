@@ -64,7 +64,7 @@ div.ellipsis {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  fill: rgb(255, 255, 255);
   margin-right: 0.5ch;
   vertical-align: top;
 }
@@ -73,14 +73,14 @@ div.ellipsis {
   display: flex;
   height: 8px;
   overflow: hidden;
-  background-color: rgb(201, 209, 217);
+  background-color: rgb(228, 230, 235);
   border-radius: 6px;
   outline: 1px solid transparent;
   margin-bottom: 1em;
 }
 
 .progress-item {
-  outline: 2px solid rgb(201, 209, 217);
+  outline: 2px solid rgb(228, 230, 235);
   border-collapse: collapse;
 }
 
@@ -91,7 +91,7 @@ div.ellipsis {
 }
 
 .percent {
-  color: rgb(88, 96, 105)
+  color: rgb(228, 230, 235)
 }
 </style>
 <g>
