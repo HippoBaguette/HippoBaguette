@@ -10,7 +10,7 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: #0D1117;
-  stroke: rgb(225, 228, 232);
+  stroke: rgb(13, 17, 23);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -64,7 +64,7 @@ div.ellipsis {
 }
 
 .octicon {
-  fill: rgb(255, 255, 255);
+  fill: rgb(255,250,250);
   margin-right: 0.5ch;
   vertical-align: top;
 }
@@ -73,7 +73,7 @@ div.ellipsis {
   display: flex;
   height: 8px;
   overflow: hidden;
-  background-color: rgb(228, 230, 235);
+  background-color: rgb(255,250,250);
   border-radius: 6px;
   outline: 1px solid transparent;
   margin-bottom: 1em;
@@ -91,7 +91,7 @@ div.ellipsis {
 }
 
 .percent {
-  color: rgb(228, 230, 235)
+  color: rgb(255,250,250)
 }
 </style>
 <g>
