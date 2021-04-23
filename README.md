@@ -1,19 +1,16 @@
-### Hello
+### <h1 align="center"> 👋 Hello </h1>
 
 <!--
 **HippoBaguette/HippoBaguette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am HippoBaguette (Pat)
+# Overview
 
-I enjoy programming in PHP, Java, and dinosaurs
+My name is Pat and I enjoy programming in PHP, Java and TypeScript. 
 
-Dinosaurs are very cool.
-
-Working on   
--> [InfluxMC](https://github.com/InfluxMC)   
--> [Astral PvP](https://github.com/AstralClientNet)
+I am currently working on  
+[![InfluxMC](https://media.discordapp.net/attachments/822396515582345257/835100274409734144/InfluxMC_Badge.png)](http://github.com/InfluxMC)  
   
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# Me in a nutshell
 
 <a href="https://github.com/jstrieb/github-stats">
 
@@ -21,3 +18,7 @@ Working on
 ![](https://github.com/HippoBaguette/HippoBaguette/blob/master/generated/languages.svg)
 
 </a>
+
+# Contact
+[![Discord](https://img.shields.io/badge/Discord-Hipposuarus%230665-orange?logo=discord&style=for-the-badge)](https://discord.com/)  
+✉ hippobaguettedev@gmail.com  (Do not expect a response withing a month if you email this account, use Discord if you wish to communicate to me)
