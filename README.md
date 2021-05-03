@@ -5,7 +5,9 @@
 -->
 # Overview
 
-My name is Pat and I enjoy programming in PHP, Java and TypeScript. 
+My name is Pat, a developer from Western Australia (yes Australia exists, and no we don't read upside down, well I don't at least)    
+
+You can find out more about me on my website ([hippo.wtf](https://hippo.wtf))
 
 I am currently working on  
 [![InfluxMC](https://media.discordapp.net/attachments/822396515582345257/835100274409734144/InfluxMC_Badge.png)](http://github.com/InfluxMC)  
