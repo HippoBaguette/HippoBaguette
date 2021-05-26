@@ -19,8 +19,13 @@ I am currently working on
 ![](https://github.com/HippoBaguette/HippoBaguette/blob/master/generated/overview.svg)
 ![](https://github.com/HippoBaguette/HippoBaguette/blob/master/generated/languages.svg)
 
-</a>
+</a>  
+
+# Technologies I'm learning in 2021
+- React
+- MongoDB
+- C and Rust
 
 # Contact
-[![Discord](https://img.shields.io/badge/Discord-Hipposuarus%230665-orange?logo=discord&style=for-the-badge)](https://discord.com/)  
+[![Discord](https://img.shields.io/badge/Discord-Hipposuarus%230665-orange?logo=discord&style=for-the-badge)](https://discord.com/)  (
 ✉ hippobaguettedev@gmail.com  (Do not expect a response withing a month if you email this account, use Discord if you wish to communicate to me)
