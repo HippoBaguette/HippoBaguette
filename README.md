@@ -28,5 +28,5 @@ I am currently working on
 - Vim
 
 # Contact
-[![Discord](https://img.shields.io/badge/Discord-Hipposuarus%230665-orange?logo=discord&style=for-the-badge)](https://discord.com/) 
+[![Discord](https://img.shields.io/badge/Discord-Hipposuarus%230665-orange?logo=discord&style=for-the-badge)](https://discord.com/)     
 ✉ hippobaguettedev@gmail.com  (Do not expect a response withing a month if you email this account, use Discord if you wish to communicate to me)
