@@ -25,6 +25,7 @@ I am currently working on
 - React
 - MongoDB
 - C and Rust
+- Vim
 
 # Contact
 [![Discord](https://img.shields.io/badge/Discord-Hipposuarus%230665-orange?logo=discord&style=for-the-badge)](https://discord.com/)  (
