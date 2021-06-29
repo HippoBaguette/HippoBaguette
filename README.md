@@ -10,7 +10,7 @@ My name is Pat, a developer from Western Australia (yes Australia exists, and no
 You can find out more about me on my website ([hippo.wtf](https://hippo.wtf))
 
 I am currently working on  
-[![InfluxMC](https://avatars.githubusercontent.com/u/79362755?s=200&v=4)](https://github.com/InfluxMC) [![CopperBot](https://avatars.githubusercontent.com/u/84998580?s=200&v=4)](https://github.com/CopperDiscord)
+[![CopperBot](https://avatars.githubusercontent.com/u/84998580?s=200&v=4)](https://github.com/CopperDiscord)
   
 # Me in a nutshell
 
