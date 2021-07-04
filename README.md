@@ -22,10 +22,8 @@ I am currently working on
 </a>  
 
 # Technologies I'm learning in 2021
-- React
-- MongoDB
-- C and Rust
-- Vim
+- Rust
+- Docker
 
 # Contact
 [![Discord](https://img.shields.io/badge/Discord-Hipposuarus%230665-orange?logo=discord&style=for-the-badge)](https://discord.com/)     
