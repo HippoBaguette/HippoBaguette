@@ -10,7 +10,7 @@ My name is Pat, a developer from Western Australia (yes Australia exists, and no
 You can find out more about me on my website ([hippo.wtf](https://hippo.wtf))
 
 I am currently working on  
-[![CopperBot](https://avatars.githubusercontent.com/u/84998580?s=200&v=4)](https://github.com/CopperDiscord)
+[![gitter](https://avatars.githubusercontent.com/u/86872269?s=200&v=4)](https://github.com/gitteraction)
   
 # Me in a nutshell
 
